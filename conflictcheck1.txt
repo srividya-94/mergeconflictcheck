@@ -1,1 +1,2 @@
-creating this file to check and resolve the merge conflict 
+creating this file to check and resolve the merge conflict : check done 
+ 
